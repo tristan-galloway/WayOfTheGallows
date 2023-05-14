@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WayOfTheGallows
+- 👋 Hi, I’m Tristan Galloway
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on Event Stats
